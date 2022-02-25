@@ -98,7 +98,7 @@
 					load();
 				});
 				
-			}).attr('src', '../../../toolbar.qodeinteractive.com/_toolbar/assets/img/rbt-placeholder.jpg');
+			}).attr('src', '../toolbar.qodeinteractive.com/_toolbar/assets/img/rbt-placeholder.jpg');
 	}
 
 	// open/close logic

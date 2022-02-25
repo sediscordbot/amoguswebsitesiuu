@@ -1,0 +1,361 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 25 Feb 2022 10:47:25 at https://overworld.qodeinteractive.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://overworld.qodeinteractive.com/ -O1 "C:\My Web Sites\amogas" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:50:05	Error: 	"Not Found" (404) at link https://overworld.qodeinteractive.com/xmlrpc.php?rsd (from https://overworld.qodeinteractive.com/)
+10:52:12	Error: 	"Not Found" (404) at link https://overworld.qodeinteractive.com/404 (from https://overworld.qodeinteractive.com/)
+10:55:22	Warning: 	Found for https://overworld.qodeinteractive.com/checkout/
+10:55:22	Warning: 	File has moved from https://overworld.qodeinteractive.com/checkout/ to https://overworld.qodeinteractive.com/cart/
+10:58:30	Error: 	"Bad Request" (400) at link https://overworld.qodeinteractive.com/wp-admin/admin-ajax.php (from https://overworld.qodeinteractive.com/)
+10:58:35	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/amogas/overworld.qodeinteractive.com/wp-content/themes/overworld/assets/img/close-button.svg
+10:58:37	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=642
+10:58:37	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=642 to https://overworld.qodeinteractive.com/boosting-home/
+10:58:58	Error: 	"Not Found" (404) at link https://overworld.qodeinteractive.com/faqs/ (from https://overworld.qodeinteractive.com/boosting-home/)
+11:00:17	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=963
+11:00:17	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=963 to https://overworld.qodeinteractive.com/esports-home/
+11:00:29	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=380
+11:00:29	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=380 to https://overworld.qodeinteractive.com/tournaments-home/
+11:00:45	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=753
+11:00:45	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=753 to https://overworld.qodeinteractive.com/magazine-home/
+11:01:44	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=464
+11:01:44	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=464 to https://overworld.qodeinteractive.com/gamer-home/
+11:02:42	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1133
+11:02:42	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1133 to https://overworld.qodeinteractive.com/v-card/
+11:02:43	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1492
+11:02:43	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1492 to https://overworld.qodeinteractive.com/our-team/
+11:02:43	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1367
+11:02:43	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1367 to https://overworld.qodeinteractive.com/our-sponsors/
+11:02:43	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1341
+11:02:43	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1341 to https://overworld.qodeinteractive.com/contact-us/
+11:02:43	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1299
+11:02:43	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1299 to https://overworld.qodeinteractive.com/faq-page/
+11:02:43	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1518
+11:02:43	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1518 to https://overworld.qodeinteractive.com/coming-soon/
+11:02:43	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1435
+11:02:43	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1435 to https://overworld.qodeinteractive.com/stream-schedule/
+11:02:43	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=699
+11:02:43	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=699 to https://overworld.qodeinteractive.com/tournament/madrid-open/
+11:02:43	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=262
+11:02:43	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=262 to https://overworld.qodeinteractive.com/match/shuriken-vs-dragonchan/
+11:02:44	Warning: 	Link https://overworld.qodeinteractive.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+11:02:44	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=220
+11:02:44	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=220 to https://overworld.qodeinteractive.com/team/knightsouls/
+11:02:44	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=83
+11:02:44	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=83 to https://overworld.qodeinteractive.com/player/ben-gaqvist/
+11:02:44	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=225
+11:02:44	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=225 to https://overworld.qodeinteractive.com/masonry-list/
+11:02:44	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=273
+11:02:44	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=273 to https://overworld.qodeinteractive.com/simple-list/
+11:04:23	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=188
+11:04:23	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=188 to https://overworld.qodeinteractive.com/right-sidebar/
+11:04:26	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1229
+11:04:26	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1229 to https://overworld.qodeinteractive.com/left-sidebar/
+11:04:26	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1231
+11:04:26	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1231 to https://overworld.qodeinteractive.com/without-sidebar/
+11:04:26	Error: 	"Not Found" (404) at link https://overworld.qodeinteractive.com/xmlrpc.php (from https://overworld.qodeinteractive.com/when-does-orup-season-4-end/)
+11:04:26	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=300
+11:04:26	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=300 to https://overworld.qodeinteractive.com/when-does-orup-season-4-end/
+11:04:27	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=194
+11:04:27	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=194 to https://overworld.qodeinteractive.com/scala67-has-finally-lost-it/
+11:04:27	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=214
+11:04:27	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=214 to https://overworld.qodeinteractive.com/lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-sed-eiusmod-tempor-incididunt-ut-labore-et/
+11:04:27	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=186
+11:04:27	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=186 to https://overworld.qodeinteractive.com/lorem-ipsum-dolor-sit-amet/
+11:04:28	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=201
+11:04:28	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=201 to https://overworld.qodeinteractive.com/the-wow-legend-leeroy-j/
+11:04:28	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=217
+11:04:28	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=217 to https://overworld.qodeinteractive.com/md-and-xmind-battle-it-out-for-group-b/
+11:06:27	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=52
+11:06:27	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=52 to https://overworld.qodeinteractive.com/product/k-27/
+11:07:55	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1265
+11:07:55	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1265 to https://overworld.qodeinteractive.com/product-list/three-columns/
+11:08:20	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1272
+11:08:20	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1272 to https://overworld.qodeinteractive.com/product-list/four-columns/
+11:08:22	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1274
+11:08:22	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1274 to https://overworld.qodeinteractive.com/product-list/full-width/
+11:08:23	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1253
+11:08:23	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1253 to https://overworld.qodeinteractive.com/cart/
+11:08:23	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1258
+11:08:23	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1258 to https://overworld.qodeinteractive.com/my-account/
+11:08:26	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1638
+11:08:26	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1638 to https://overworld.qodeinteractive.com/landing/
+11:08:26	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=202
+11:08:26	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=202 to https://overworld.qodeinteractive.com/team/shuriken/
+11:08:26	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=12
+11:08:26	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=12 to https://overworld.qodeinteractive.com/team/dragons/
+11:08:26	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=204
+11:08:26	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=204 to https://overworld.qodeinteractive.com/team/racoons/
+11:08:26	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=361
+11:08:26	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=361 to https://overworld.qodeinteractive.com/match/racoons-vs-erudites/
+11:08:26	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=206
+11:08:26	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=206 to https://overworld.qodeinteractive.com/team/erudites/
+11:08:26	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=370
+11:08:26	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=370 to https://overworld.qodeinteractive.com/match/erudites-vs-fox-unit/
+11:08:26	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=222
+11:08:26	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=222 to https://overworld.qodeinteractive.com/team/fox-unit/
+11:08:26	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=213
+11:08:26	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=213 to https://overworld.qodeinteractive.com/team/oggorilla/
+11:08:26	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=373
+11:08:26	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=373 to https://overworld.qodeinteractive.com/match/oggorilla-vs-racoons/
+11:08:26	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=157
+11:08:26	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=157 to https://overworld.qodeinteractive.com/weve-won-the-kings-wow/
+11:08:41	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=289
+11:08:41	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=289 to https://overworld.qodeinteractive.com/nysd-confirmed-for-cdb7-league/
+11:08:42	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=293
+11:08:42	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=293 to https://overworld.qodeinteractive.com/magic-dead-in-the-standard-format/
+11:08:42	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=297
+11:08:42	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=297 to https://overworld.qodeinteractive.com/london-uprising-release-6-players/
+11:08:42	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=299
+11:08:42	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=299 to https://overworld.qodeinteractive.com/madagascar-fusion-released-s1/
+11:08:42	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=301
+11:08:42	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=301 to https://overworld.qodeinteractive.com/eue-thief-of-lights-is-coming/
+11:08:42	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=32
+11:08:42	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=32 to https://overworld.qodeinteractive.com/player/dereck-bissen/
+11:08:42	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=85
+11:08:42	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=85 to https://overworld.qodeinteractive.com/player/gosta-strom/
+11:08:42	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=87
+11:08:42	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=87 to https://overworld.qodeinteractive.com/player/arnfa-akerme/
+11:08:42	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=89
+11:08:42	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=89 to https://overworld.qodeinteractive.com/player/zacha-magnus/
+11:08:43	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=92
+11:08:43	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=92 to https://overworld.qodeinteractive.com/player/sverker-lind/
+11:08:43	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=706
+11:08:43	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=706 to https://overworld.qodeinteractive.com/product/raccoons/
+11:09:10	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=9c82c7143c102b71c593d98d96093fde&_wpnonce=fe5aa05ef1
+11:09:10	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=9c82c7143c102b71c593d98d96093fde&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product-category/merchandise/?removed_item=1
+11:09:19	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=970
+11:09:19	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=970 to https://overworld.qodeinteractive.com/product/gamer-shirt/
+11:09:41	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=973
+11:09:41	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=973 to https://overworld.qodeinteractive.com/product/purples/
+11:09:41	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=89fcd07f20b6785b92134bd6c1d0fa42&_wpnonce=fe5aa05ef1
+11:09:41	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=89fcd07f20b6785b92134bd6c1d0fa42&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/purples/?removed_item=1
+11:09:42	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=ca75910166da03ff9d4655a0338e6b09&_wpnonce=fe5aa05ef1
+11:09:42	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=ca75910166da03ff9d4655a0338e6b09&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/purples/?removed_item=1
+11:09:55	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=976
+11:09:55	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=976 to https://overworld.qodeinteractive.com/product/hoodie/
+11:10:04	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=9c01802ddb981e6bcfbec0f0516b8e35&_wpnonce=fe5aa05ef1
+11:10:04	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=9c01802ddb981e6bcfbec0f0516b8e35&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/hoodie/?removed_item=1
+11:10:35	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=375
+11:10:35	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=375 to https://overworld.qodeinteractive.com/match/guldan-boi-vs-shuriken/
+11:10:35	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=693
+11:10:35	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=693 to https://overworld.qodeinteractive.com/tournament/jaco-pistorius-cup/
+11:10:35	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=687
+11:10:35	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=687 to https://overworld.qodeinteractive.com/tournament/vanilla-masters-2019/
+11:10:35	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=663
+11:10:35	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=663 to https://overworld.qodeinteractive.com/tournament/spring-season-2020/
+11:10:35	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=660
+11:10:35	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=660 to https://overworld.qodeinteractive.com/tournament/summer-season-2020/
+11:10:35	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=658
+11:10:35	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=658 to https://overworld.qodeinteractive.com/tournament/winter-season-2020/
+11:10:35	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=263
+11:10:35	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=263 to https://overworld.qodeinteractive.com/tournament/fall-season-2019/
+11:10:35	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1203
+11:10:35	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1203 to https://overworld.qodeinteractive.com/product/rank-boosting/
+11:10:57	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1211
+11:10:57	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1211 to https://overworld.qodeinteractive.com/product/face/
+11:10:57	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=491442df5f88c6aa018e86dac21d3606&_wpnonce=fe5aa05ef1
+11:10:57	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=491442df5f88c6aa018e86dac21d3606&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/face/?removed_item=1
+11:11:29	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1213
+11:11:29	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1213 to https://overworld.qodeinteractive.com/product/esea/
+11:12:07	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=1212
+11:12:07	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=1212 to https://overworld.qodeinteractive.com/product/esportal/
+11:12:13	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=285ab9448d2751ee57ece7f762c39095&_wpnonce=fe5aa05ef1
+11:12:13	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=285ab9448d2751ee57ece7f762c39095&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/esportal/?removed_item=1
+11:12:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://overworld.qodeinteractive.com/product/esportal/?add-to-cart=976 (from https://overworld.qodeinteractive.com/product/esportal/)
+11:12:45	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=209
+11:12:45	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=209 to https://overworld.qodeinteractive.com/team/guldan-boi/
+11:12:58	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=362
+11:12:58	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=362 to https://overworld.qodeinteractive.com/match/guldan-boi-vs-oggorilla/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=363
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=363 to https://overworld.qodeinteractive.com/match/knightsouls-boi-vs-fox-unit/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=2149
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=2149 to https://overworld.qodeinteractive.com/tournament/fall-season-2019-2/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=2154
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=2154 to https://overworld.qodeinteractive.com/tournament/winter-season-2020-2/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=2155
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=2155 to https://overworld.qodeinteractive.com/tournament/summer-season-2020-2/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=2156
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=2156 to https://overworld.qodeinteractive.com/tournament/spring-season-2020-2/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=371
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=371 to https://overworld.qodeinteractive.com/match/erudites-vs-dragon-chan/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=229
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=229 to https://overworld.qodeinteractive.com/the-coons-have-won-the-kingscon-whats-next/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=230
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=230 to https://overworld.qodeinteractive.com/what-the-heck-just-happened-in-fortnite/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=233
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=233 to https://overworld.qodeinteractive.com/chapter-2-launches-with-new-areas/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=231
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=231 to https://overworld.qodeinteractive.com/discovering-new-map-for-season-11/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=232
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=232 to https://overworld.qodeinteractive.com/lorem-ipsum-dolor-sit-amet-sed-eiusmod-tempor/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=237
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=237 to https://overworld.qodeinteractive.com/he-is-the-wunderkind-dragonchan-needed/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=236
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=236 to https://overworld.qodeinteractive.com/weve-won-the-kingscons-whats-next/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=239
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=239 to https://overworld.qodeinteractive.com/the-original-wow-legend-leeroy-jenkins/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=235
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=235 to https://overworld.qodeinteractive.com/griefers-are-the-most-funny-people-ever/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=234
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=234 to https://overworld.qodeinteractive.com/scalagrimo-has-finally-lost-it/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=238
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=238 to https://overworld.qodeinteractive.com/lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=228
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=228 to https://overworld.qodeinteractive.com/mod-and-xrin-battle-it-out-for-group-b2b/
+11:12:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=39
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=39 to https://overworld.qodeinteractive.com/product/face-it/
+11:12:59	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=a01610228fe998f515a72dd730294d87&_wpnonce=fe5aa05ef1
+11:12:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=a01610228fe998f515a72dd730294d87&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/face-it/?removed_item=1
+11:13:33	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=55
+11:13:33	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=55 to https://overworld.qodeinteractive.com/product/uconic/
+11:13:33	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=9a1158154dfa42caddbd0694a4e9bdc8&_wpnonce=fe5aa05ef1
+11:13:33	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=9a1158154dfa42caddbd0694a4e9bdc8&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/uconic/?removed_item=1
+11:13:58	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=56
+11:13:58	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=56 to https://overworld.qodeinteractive.com/product/headphones/
+11:14:24	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=9f61408e3afb633e50cdf1b20de6f466&_wpnonce=fe5aa05ef1
+11:14:24	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=9f61408e3afb633e50cdf1b20de6f466&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product-category/tournaments/?removed_item=1
+11:14:28	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=307
+11:14:28	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=307 to https://overworld.qodeinteractive.com/group-a-is-stacked-at-aml-one/
+11:14:28	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=306
+11:14:28	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=306 to https://overworld.qodeinteractive.com/the-big-update-of-microns/
+11:14:28	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=305
+11:14:28	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=305 to https://overworld.qodeinteractive.com/don-gets-two-new-game-modes/
+11:14:28	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=304
+11:14:28	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=304 to https://overworld.qodeinteractive.com/oma-s-partnership-with-uni/
+11:14:28	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=303
+11:14:28	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=303 to https://overworld.qodeinteractive.com/mobs-beautiful-weirdos-guide/
+11:14:28	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=302
+11:14:28	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=302 to https://overworld.qodeinteractive.com/t1-an-zeronimo9-in-fight/
+11:14:28	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=308
+11:14:28	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=308 to https://overworld.qodeinteractive.com/this-is-a-guest-piece-by-roy-roy/
+11:14:28	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=309
+11:14:28	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=309 to https://overworld.qodeinteractive.com/v-is-for-victory-f-is-for-f-die-b/
+11:14:28	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=310
+11:14:28	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=310 to https://overworld.qodeinteractive.com/alenio-launches-esports-teams/
+11:14:39	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=339
+11:14:39	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=339 to https://overworld.qodeinteractive.com/here-are-the-matchups-for-the-w19-021/
+11:14:39	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=d67d8ab4f4c10bf22aa353e27879133c&_wpnonce=fe5aa05ef1
+11:14:39	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=d67d8ab4f4c10bf22aa353e27879133c&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product-list/?removed_item=1
+11:14:39	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=b53b3a3d6ab90ce0268229151c9bde11&_wpnonce=fe5aa05ef1
+11:14:39	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=b53b3a3d6ab90ce0268229151c9bde11&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product-list/?removed_item=1
+11:14:39	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=f2217062e9a397a1dca429e7d70bc6ca&_wpnonce=fe5aa05ef1
+11:14:39	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=f2217062e9a397a1dca429e7d70bc6ca&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product-list/?removed_item=1
+11:14:39	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=149
+11:14:39	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=149 to https://overworld.qodeinteractive.com/product/sezam/
+11:14:52	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=072b030ba126b2f4b2374f342be9ed44&_wpnonce=fe5aa05ef1
+11:14:52	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=072b030ba126b2f4b2374f342be9ed44&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product-list/?removed_item=1
+11:14:59	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=60
+11:14:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=60 to https://overworld.qodeinteractive.com/product/r12-case/
+11:15:52	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=7ef605fc8dba5425d6965fbd4c8fbe1f&_wpnonce=fe5aa05ef1
+11:15:52	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=7ef605fc8dba5425d6965fbd4c8fbe1f&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product-list/?removed_item=1
+11:15:52	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=150
+11:15:52	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=150 to https://overworld.qodeinteractive.com/product/m-laptop/
+11:16:19	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=a8f15eda80c50adb0e71943adc8015cf&_wpnonce=fe5aa05ef1
+11:16:19	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=a8f15eda80c50adb0e71943adc8015cf&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product-list/?removed_item=1
+11:16:20	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=151
+11:16:20	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=151 to https://overworld.qodeinteractive.com/product/microphone/
+11:16:57	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=37a749d808e46495a8da1e5352d03cae&_wpnonce=fe5aa05ef1
+11:16:57	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=37a749d808e46495a8da1e5352d03cae&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product-list/?removed_item=1
+11:17:09	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=152
+11:17:09	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=152 to https://overworld.qodeinteractive.com/product/r-678/
+11:17:57	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=153
+11:17:57	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=153 to https://overworld.qodeinteractive.com/product/s-black89/
+11:19:02	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=1d7f7abc18fcb43975065399b0d1e48e&_wpnonce=fe5aa05ef1
+11:19:02	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=1d7f7abc18fcb43975065399b0d1e48e&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product-list/?removed_item=1
+11:19:08	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=154
+11:19:08	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=154 to https://overworld.qodeinteractive.com/product/lh-mouse/
+11:19:51	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=2a79ea27c279e471f4d180b08d62b00a&_wpnonce=fe5aa05ef1
+11:19:51	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=2a79ea27c279e471f4d180b08d62b00a&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product-list/?removed_item=1
+11:20:08	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=155
+11:20:08	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=155 to https://overworld.qodeinteractive.com/product/neu-9/
+11:21:56	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/product-list/page/1/
+11:21:56	Warning: 	File has moved from https://overworld.qodeinteractive.com/product-list/page/1/ to https://overworld.qodeinteractive.com/product-list/
+11:24:29	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=1c9ac0159c94d8d0cbedc973445af2da&_wpnonce=fe5aa05ef1
+11:24:29	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=1c9ac0159c94d8d0cbedc973445af2da&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/k-27/?removed_item=1
+11:24:51	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=156
+11:24:51	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=156 to https://overworld.qodeinteractive.com/product/mind/
+11:25:37	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/?p=343
+11:25:37	Warning: 	File has moved from https://overworld.qodeinteractive.com/?p=343 to https://overworld.qodeinteractive.com/lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-sed-eiusmod-tempor-incididunt-ut-labore-ut/
+11:25:37	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?remove_item=33ceb07bf4eeb3da587e268d663aba1a&_wpnonce=fe5aa05ef1
+11:25:37	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?remove_item=33ceb07bf4eeb3da587e268d663aba1a&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/raccoons/?removed_item=1
+11:25:39	Warning: 	Moved Permanently for overworld.qodeinteractive.com/robots.txt
+11:25:39	Warning: 	Redirected link is identical because of 'URL Hack' option: overworld.qodeinteractive.com/robots.txt and https://overworld.qodeinteractive.com/robots.txt
+11:25:39	Warning: 	Warning moved treated for overworld.qodeinteractive.com/robots.txt (real one is https://overworld.qodeinteractive.com/robots.txt)
+11:25:39	Warning: 	Moved Permanently for overworld.qodeinteractive.com/product-category/merchandise/?removed_item=1
+11:25:39	Warning: 	Redirected link is identical because of 'URL Hack' option: overworld.qodeinteractive.com/product-category/merchandise/?removed_item=1 and https://overworld.qodeinteractive.com/product-category/merchandise/?removed_item=1
+11:25:39	Warning: 	File has moved from overworld.qodeinteractive.com/product-category/merchandise/?removed_item=1 to https://overworld.qodeinteractive.com/product-category/merchandise/?removed_item=1
+11:25:39	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?undo_item=9c82c7143c102b71c593d98d96093fde&_wpnonce=fe5aa05ef1
+11:25:39	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?undo_item=9c82c7143c102b71c593d98d96093fde&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product-category/merchandise/?add-to-cart=706
+11:26:14	Warning: 	Moved Permanently for overworld.qodeinteractive.com/product/purples/?removed_item=1
+11:26:14	Warning: 	Redirected link is identical because of 'URL Hack' option: overworld.qodeinteractive.com/product/purples/?removed_item=1 and https://overworld.qodeinteractive.com/product/purples/?removed_item=1
+11:26:14	Warning: 	File has moved from overworld.qodeinteractive.com/product/purples/?removed_item=1 to https://overworld.qodeinteractive.com/product/purples/?removed_item=1
+11:26:14	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?undo_item=89fcd07f20b6785b92134bd6c1d0fa42&_wpnonce=fe5aa05ef1
+11:26:14	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?undo_item=89fcd07f20b6785b92134bd6c1d0fa42&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/purples/?add-to-cart=970
+11:26:32	Warning: 	Moved Permanently for overworld.qodeinteractive.com/product/hoodie/?removed_item=1
+11:26:32	Warning: 	Redirected link is identical because of 'URL Hack' option: overworld.qodeinteractive.com/product/hoodie/?removed_item=1 and https://overworld.qodeinteractive.com/product/hoodie/?removed_item=1
+11:26:32	Warning: 	File has moved from overworld.qodeinteractive.com/product/hoodie/?removed_item=1 to https://overworld.qodeinteractive.com/product/hoodie/?removed_item=1
+11:26:32	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?undo_item=9c01802ddb981e6bcfbec0f0516b8e35&_wpnonce=fe5aa05ef1
+11:26:32	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?undo_item=9c01802ddb981e6bcfbec0f0516b8e35&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/hoodie/?add-to-cart=151
+11:27:31	Warning: 	Moved Permanently for overworld.qodeinteractive.com/product/face/?removed_item=1
+11:27:31	Warning: 	Redirected link is identical because of 'URL Hack' option: overworld.qodeinteractive.com/product/face/?removed_item=1 and https://overworld.qodeinteractive.com/product/face/?removed_item=1
+11:27:31	Warning: 	File has moved from overworld.qodeinteractive.com/product/face/?removed_item=1 to https://overworld.qodeinteractive.com/product/face/?removed_item=1
+11:27:31	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?undo_item=491442df5f88c6aa018e86dac21d3606&_wpnonce=fe5aa05ef1
+11:27:31	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?undo_item=491442df5f88c6aa018e86dac21d3606&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/face/?add-to-cart=1203
+11:28:21	Warning: 	Moved Permanently for overworld.qodeinteractive.com/product/esportal/?removed_item=1
+11:28:21	Warning: 	Redirected link is identical because of 'URL Hack' option: overworld.qodeinteractive.com/product/esportal/?removed_item=1 and https://overworld.qodeinteractive.com/product/esportal/?removed_item=1
+11:28:21	Warning: 	File has moved from overworld.qodeinteractive.com/product/esportal/?removed_item=1 to https://overworld.qodeinteractive.com/product/esportal/?removed_item=1
+11:28:21	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?undo_item=285ab9448d2751ee57ece7f762c39095&_wpnonce=fe5aa05ef1
+11:28:21	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?undo_item=285ab9448d2751ee57ece7f762c39095&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/esportal/?add-to-cart=149
+11:28:59	Warning: 	Moved Permanently for overworld.qodeinteractive.com/product/face-it/?removed_item=1
+11:28:59	Warning: 	Redirected link is identical because of 'URL Hack' option: overworld.qodeinteractive.com/product/face-it/?removed_item=1 and https://overworld.qodeinteractive.com/product/face-it/?removed_item=1
+11:28:59	Warning: 	File has moved from overworld.qodeinteractive.com/product/face-it/?removed_item=1 to https://overworld.qodeinteractive.com/product/face-it/?removed_item=1
+11:28:59	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?undo_item=a01610228fe998f515a72dd730294d87&_wpnonce=fe5aa05ef1
+11:28:59	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?undo_item=a01610228fe998f515a72dd730294d87&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/face-it/?add-to-cart=156
+11:29:24	Warning: 	Moved Permanently for overworld.qodeinteractive.com/product/uconic/?removed_item=1
+11:29:24	Warning: 	Redirected link is identical because of 'URL Hack' option: overworld.qodeinteractive.com/product/uconic/?removed_item=1 and https://overworld.qodeinteractive.com/product/uconic/?removed_item=1
+11:29:24	Warning: 	File has moved from overworld.qodeinteractive.com/product/uconic/?removed_item=1 to https://overworld.qodeinteractive.com/product/uconic/?removed_item=1
+11:29:24	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?undo_item=9a1158154dfa42caddbd0694a4e9bdc8&_wpnonce=fe5aa05ef1
+11:29:24	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?undo_item=9a1158154dfa42caddbd0694a4e9bdc8&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/uconic/?add-to-cart=970
+11:30:05	Warning: 	Moved Permanently for overworld.qodeinteractive.com/product-category/tournaments/?removed_item=1
+11:30:05	Warning: 	Redirected link is identical because of 'URL Hack' option: overworld.qodeinteractive.com/product-category/tournaments/?removed_item=1 and https://overworld.qodeinteractive.com/product-category/tournaments/?removed_item=1
+11:30:05	Warning: 	File has moved from overworld.qodeinteractive.com/product-category/tournaments/?removed_item=1 to https://overworld.qodeinteractive.com/product-category/tournaments/?removed_item=1
+11:30:05	Warning: 	Moved Permanently for overworld.qodeinteractive.com/product-list/?removed_item=1
+11:30:05	Warning: 	Redirected link is identical because of 'URL Hack' option: overworld.qodeinteractive.com/product-list/?removed_item=1 and https://overworld.qodeinteractive.com/product-list/?removed_item=1
+11:30:05	Warning: 	File has moved from overworld.qodeinteractive.com/product-list/?removed_item=1 to https://overworld.qodeinteractive.com/product-list/?removed_item=1
+11:30:05	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?undo_item=d67d8ab4f4c10bf22aa353e27879133c&_wpnonce=fe5aa05ef1
+11:30:05	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?undo_item=d67d8ab4f4c10bf22aa353e27879133c&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/sezam/?add-to-cart=1211
+11:30:05	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?undo_item=b53b3a3d6ab90ce0268229151c9bde11&_wpnonce=fe5aa05ef1
+11:30:05	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?undo_item=b53b3a3d6ab90ce0268229151c9bde11&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/sezam/?add-to-cart=1211
+11:30:05	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?undo_item=f2217062e9a397a1dca429e7d70bc6ca&_wpnonce=fe5aa05ef1
+11:30:05	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?undo_item=f2217062e9a397a1dca429e7d70bc6ca&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/sezam/?add-to-cart=1211
+11:30:48	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?undo_item=072b030ba126b2f4b2374f342be9ed44&_wpnonce=fe5aa05ef1
+11:30:48	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?undo_item=072b030ba126b2f4b2374f342be9ed44&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/r12-case/?add-to-cart=970
+11:31:51	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?undo_item=a8f15eda80c50adb0e71943adc8015cf&_wpnonce=fe5aa05ef1
+11:31:51	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?undo_item=a8f15eda80c50adb0e71943adc8015cf&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/microphone/?add-to-cart=976
+11:32:14	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?undo_item=37a749d808e46495a8da1e5352d03cae&_wpnonce=fe5aa05ef1
+11:32:14	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?undo_item=37a749d808e46495a8da1e5352d03cae&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/r-678/?add-to-cart=970
+11:33:00	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?undo_item=1d7f7abc18fcb43975065399b0d1e48e&_wpnonce=fe5aa05ef1
+11:33:00	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?undo_item=1d7f7abc18fcb43975065399b0d1e48e&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/lh-mouse/?add-to-cart=56
+11:33:27	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?undo_item=2a79ea27c279e471f4d180b08d62b00a&_wpnonce=fe5aa05ef1
+11:33:27	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?undo_item=2a79ea27c279e471f4d180b08d62b00a&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/neu-9/?add-to-cart=56
+11:34:00	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/product-tag/cs-go/page/1/
+11:34:00	Warning: 	File has moved from https://overworld.qodeinteractive.com/product-tag/cs-go/page/1/ to https://overworld.qodeinteractive.com/product-tag/cs-go/
+11:34:14	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/product-tag/esea/page/1/
+11:34:14	Warning: 	File has moved from https://overworld.qodeinteractive.com/product-tag/esea/page/1/ to https://overworld.qodeinteractive.com/product-tag/esea/
+11:34:27	Warning: 	Moved Permanently for https://overworld.qodeinteractive.com/product-tag/ranks/page/1/
+11:34:27	Warning: 	File has moved from https://overworld.qodeinteractive.com/product-tag/ranks/page/1/ to https://overworld.qodeinteractive.com/product-tag/ranks/
+11:34:28	Warning: 	Moved Permanently for overworld.qodeinteractive.com/product/k-27/?removed_item=1
+11:34:28	Warning: 	Redirected link is identical because of 'URL Hack' option: overworld.qodeinteractive.com/product/k-27/?removed_item=1 and https://overworld.qodeinteractive.com/product/k-27/?removed_item=1
+11:34:28	Warning: 	File has moved from overworld.qodeinteractive.com/product/k-27/?removed_item=1 to https://overworld.qodeinteractive.com/product/k-27/?removed_item=1
+11:34:28	Warning: 	Found for https://overworld.qodeinteractive.com/cart/?undo_item=1c9ac0159c94d8d0cbedc973445af2da&_wpnonce=fe5aa05ef1
+11:34:28	Warning: 	File has moved from https://overworld.qodeinteractive.com/cart/?undo_item=1c9ac0159c94d8d0cbedc973445af2da&_wpnonce=fe5aa05ef1 to http://overworld.qodeinteractive.com/product/k-27/?add-to-cart=1211
+11:34:55	Warning: 	Moved Permanently for overworld.qodeinteractive.com/product/raccoons/?removed_item=1
+11:34:55	Warning: 	Redirected link is identical because of 'URL Hack' option: overworld.qodeinteractive.com/product/raccoons/?removed_item=1 and https://overworld.qodeinteractive.com/product/raccoons/?removed_item=1
+11:34:55	Warning: 	File has moved from overworld.qodeinteractive.com/product/raccoons/?removed_item=1 to https://overworld.qodeinteractive.com/product/raccoons/?removed_item=1
+
+HTTrack Website Copier/3.49-2 mirror complete in 49 minutes 9 seconds : 2046 links scanned, 1874 files written (136305233 bytes overall) [49348772 bytes received at 16734 bytes/sec], 107197626 bytes transferred using HTTP compression in 1281 files, ratio 16%, 9.0 requests per connection
+(5 errors, 345 warnings, 0 messages)
